@@ -1,4 +1,4 @@
-# 🌋 S2 TDOG Genesis Engine & HLSL Lab (v1.2.0)
+# 🌋 S2 TDOG Genesis Engine & HLSL Lab (v1.2.1)
 
 Welcome to the dual-core engine of the S2 Metaverse. [cite_start]This plugin combines the **TDOG Matter Compiler** with the **Hyper-Limit Science Lab (HLSL)**, a non-profit virtual laboratory designed for research and STEM education. [cite: 970, 994]
 

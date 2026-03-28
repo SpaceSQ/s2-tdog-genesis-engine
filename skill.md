@@ -1,7 +1,7 @@
 ---
 name: s2-tdog-genesis-engine
 description: The ultimate Genesis Engine for the Space2 ecosystem. Controls TDOG matter compilation (MR Fluid, SMP) and Hyper-Limit environmental simulation (-270℃ to 3000℃).
-version: 1.2.0
+version: 1.2.1
 ---
 
 # S2 TDOG & Hyper-Environment Genesis Guide

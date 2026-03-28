@@ -1,6 +1,6 @@
 {
   "name": "s2-tdog-genesis-engine",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "S2 Genesis Engine. Implements TDOG matter compilation, MR Fluid / SMP control, and Hyper-Environment simulation with 0.2s safety fuses.",
   "main": "handler.py",
   "scripts": {
