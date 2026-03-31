@@ -1,7 +1,7 @@
 {
   "id": "s2-tdog-genesis-engine",
   "pluginId": "s2-tdog-genesis-engine",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "type": "native-code",
   "entry": "handler.py",
   "runtime": "python3",

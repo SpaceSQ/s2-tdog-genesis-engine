@@ -1,11 +1,14 @@
 # 🌌 S2 Hyper-TDOG & Hyper-Environment Genesis Whitepaper
 **(S2 超限环境与 TDOG 创世引擎双语白皮书)**
 
-**Document ID:** S2-HTDOG-2026-V1.0  
-**Release Date:** March 28, 2026  
+**Document ID:** S2-HTDOG-2026-V2.0  
+**Release Date:** March 30, 2026  
 **Architect:** Miles Xiang & Red Anchor Lab (Sector X)  
 
 ---
+
+## 0. 🛡️ Sandbox Architecture & Boundary Disclosure
+**[OpenClaw Zero-Trust Notice]:** The implementations described herein depict the complete Cyber-Physical system. Within the OpenClaw plugin ecosystem, this engine operates strictly as the **Logical Control Plane**. Physical actuators (MR Fluid manipulation, Extreme Heat Generation) and external network dependencies are explicitly decoupled and managed by downstream, air-gapped systems reading from the local SQLite ledger.
 
 ## 📄 [中文版] 物质觉醒与超限环境生成法则
 
